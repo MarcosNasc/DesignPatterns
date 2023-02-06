@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="SimpleFactory.Pizza">
-    <Position X="7" Y="1" Width="1.5" />
+    <Position X="7.75" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQEAAAI=</HashCode>
       <FileName>Pizza.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SimpleFactory.PizzaCalabreza">
-    <Position X="6" Y="3.5" Width="1.5" />
+  <Class Name="SimpleFactory.PizzaCalabresa">
+    <Position X="6.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAI=</HashCode>
-      <FileName>PizzaCalabreza.cs</FileName>
+      <FileName>PizzaCalabresa.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="SimpleFactory.PizzaMusarella">
-    <Position X="8" Y="3.5" Width="1.5" />
+    <Position X="8.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAI=</HashCode>
       <FileName>PizzaMusarella.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="SimpleFactory.Program">
-    <Position X="1" Y="1.25" Width="1.5" />
+    <Position X="1.75" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="SimpleFactory.Pizzaria">
-    <Position X="2.75" Y="1.25" Width="1.5" />
+    <Position X="3.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Pizzaria.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="SimpleFactory.PizzaSimpleFactory">
-    <Position X="4.75" Y="1.25" Width="1.5" />
+    <Position X="5.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>PizzaSimpleFactory.cs</FileName>
