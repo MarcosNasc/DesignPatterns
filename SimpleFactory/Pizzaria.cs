@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
+    // Client
     public class Pizzaria
     {
         public static void SolicitarPizza()

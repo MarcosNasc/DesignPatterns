@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
+    // Abstract product
     public abstract class Pizza
     {
         public string? Nome { get; set; }

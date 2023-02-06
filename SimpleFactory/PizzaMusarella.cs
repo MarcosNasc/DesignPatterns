@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
+    // Concrete Product
     public class PizzaMusarella : Pizza
     {
         public PizzaMusarella()
