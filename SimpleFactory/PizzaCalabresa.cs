@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
-    public class PizzaCalabreza : Pizza
+    public class PizzaCalabresa : Pizza
     {
-        public PizzaCalabreza()
+        public PizzaCalabresa()
         {
             Nome = "Pizza de calabresa";
         }
